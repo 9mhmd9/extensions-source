@@ -1,1 +1,8 @@
+ext {
+    extName = 'Pro Chan'
+    extClass = '.ProChan'
+    extVersionCode = 1
+    isNsfw = false
+}
 
+apply from: "$rootDir/common.gradle"
